@@ -3,4 +3,8 @@
 
 /.vscode
 
-/misc/bin
+/misc/bin/*
+/bin/*
+/tmp/*
+
+!.gitkeep
